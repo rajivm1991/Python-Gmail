@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import imaplib, smtplib
 from email import message_from_string
 from email.header import Header, decode_header, make_header
